@@ -137,3 +137,58 @@ letter-spacing: 0%;
 padding-left: 75px;
 display: inline-block;
 }
+.info_header{
+color: rgb(43, 38, 38);
+font-family: Montserrat;
+font-size: 64px;
+font-weight: 600;
+line-height: 78px;
+letter-spacing: 0;
+display: flex;
+margin-left: 99.76px;
+padding-top:151.26px;
+display: inline-block;
+}
+.info_text{
+color: rgb(43, 38, 38);
+font-family: Montserrat;
+font-size: 21px;
+font-weight: 500;
+line-height: 35px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 36.01px;
+padding-left: 99.76px;
+}
+.info_buy{
+   padding-top: 62.42px;
+   padding-left: 99.76px;
+}
+.buy_btn{
+   width: 308.66px;
+height: 84.03px;
+border-radius: 10px;
+box-shadow: 0px 25px 50px 0px rgba(132, 94, 194, 0.15);
+background: rgb(16, 185, 129);
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 21px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0%;
+text-align:center;
+}
+.block_1{
+   padding-left: 1096px;
+   padding-top: 140px;
+}
+.info_qur{
+   width: 319.22px;
+height: 572.61px;
+border-radius: 136px;
+background:rosybrown
+}
+.info_img{
+   padding-top: 91.23px;
+
+}
